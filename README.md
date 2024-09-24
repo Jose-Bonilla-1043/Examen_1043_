@@ -1,12 +1,10 @@
 # Examen_1043_
 - codigo
 
-![image](https://github.com/user-attachments/assets/fb41f5bd-ef7b-457a-9457-b740bc2ff33f)
+![image](https://github.com/user-attachments/assets/729c5ce4-98bf-41f6-9de3-9a340671daee)
+![image](https://github.com/user-attachments/assets/1d533876-7553-4853-b51d-46d0b1050dc9)
 
-![image](https://github.com/user-attachments/assets/4ae71408-be1b-432b-9f62-3f31135cbd35)
-
-![image](https://github.com/user-attachments/assets/be736538-74a8-4a10-bdc0-b60e93819a10)
 
 - resultado
 
-![image](https://github.com/user-attachments/assets/ac238a31-6959-46da-9c25-d55bfaaf3aa4)
+![image](https://github.com/user-attachments/assets/d22a846f-97d3-49f4-ae6e-7a46f81a95bb)
